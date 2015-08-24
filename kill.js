@@ -7,7 +7,7 @@ function blockAndDisplay() {
     } else if (message.length == 0) {
         message = $('<h1>')
             .attr('id', 'distracted')
-            .text("Don't get distracted by Facebook!")
+            .text("The Newsfeed is literally the biggest waste of your time ever")
             .css('font-size', '30px')
             .css('font-family', "'Helvetica Neue', Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif")
             .css('position', 'relative')
